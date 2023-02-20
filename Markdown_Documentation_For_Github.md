@@ -32,5 +32,7 @@
 	```
 
 Note:
+
 Found nice Markdown Cheatsheet site to use for future notes. See the link below:
-[Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet) 
+
+> [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet) 
