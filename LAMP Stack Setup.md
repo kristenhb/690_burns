@@ -100,7 +100,7 @@ https://httpd.apache.org/docs/2.4/invoking.html
 https://cwiki.apache.org/confluence/display/HTTPD/FAQ
 
 ##### VM Instances
-http://34.123.18.251/ (VM Instances)
+http://34.123.18.251/
 
 ##### OPAC
 ```
