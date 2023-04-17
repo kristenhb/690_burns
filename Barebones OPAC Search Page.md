@@ -67,6 +67,7 @@ an intuition, of how an OPAC works, though.</p>
 ##### PHP Search Script
 
 Copy the code below into the search.php file. 
+
 __Change the IP addess in the last line of code to be my address (34.123.18.251)__
 
 ```
